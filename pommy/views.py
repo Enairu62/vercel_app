@@ -9,7 +9,9 @@ def index(request):
     <html>
         <body>
             <h1>Hello from Vercel!</h1>
+            <h3>Holy shit it finally worked</h3>
             <p>The current time is { now }.</p>
+            <h6>Copyright by Enairu Eire</h6>
         </body>
     </html>
     '''
